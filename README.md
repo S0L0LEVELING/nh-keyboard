@@ -1,3 +1,5 @@
+# Required nh-keyboard for wasabi scripts using nh-context. I may update to latest version soon when I update my personal server.
+
 # nh-keyboard
 Dynamic Keyboard Input NUI for FiveM
 
